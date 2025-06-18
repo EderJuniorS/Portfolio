@@ -2,7 +2,7 @@
 
 Um portfólio moderno e responsivo que apresenta meu trabalho como desenvolvedor front-end, com design elegante e interações fluidas.
 
-![Preview do Portfólio](img/Profile/profile.jpg)
+![Preview do Portfólio](img/Portfolio-Pronto/Portfolio-Pronto.png)
 
 ## ✨ Recursos Principais
 
@@ -67,14 +67,3 @@ cd portfolio
 🔗 **Links Úteis**:
 - [LinkedIn](https://www.linkedin.com/in/ederjuniormatossilva)
 - [Todos os Projetos](https://github.com/EderJuniorS?tab=repositories)
-
----
-
-Esta descrição:
-1. Destaque seus melhores projetos
-2. Mostra suas habilidades técnicas
-3. Inclui preview visual
-4. Tem estrutura clara para navegação
-5. Mostra personalidade e objetivos
-
-Você pode adicionar esta descrição no arquivo README.md do seu repositório no GitHub! 😊
