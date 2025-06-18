@@ -47,11 +47,11 @@ portfolio/
 
 ## 🌐 Como Visualizar
 
-1. Acesse online: [GitHub Pages](https://ederjuniors.github.io/portfolio)
+1. Acesse online: [GitHub Pages](https://EderJuniorS.github.io/Portfolio)
 2. Ou clone o repositório:
 ```bash
 git clone https://github.com/EderJuniorS/Portfolio.git
-cd portfolio
+cd Portfolio
 ```
 
 ## 📌 Próximos Passos
